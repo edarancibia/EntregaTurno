@@ -1,0 +1,5 @@
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\Funciones\bin\Debug\Funciones.dll
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\Funciones\bin\Debug\Funciones.pdb
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\Funciones\obj\Debug\Funciones.dll
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\Funciones\obj\Debug\Funciones.pdb
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache

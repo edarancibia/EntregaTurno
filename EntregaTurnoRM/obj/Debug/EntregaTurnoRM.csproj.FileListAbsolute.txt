@@ -1,0 +1,7 @@
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\bin\EntregaTurnoRM.dll
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\bin\EntregaTurnoRM.pdb
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\obj\Debug\EntregaTurnoRM.csprojResolveAssemblyReference.cache
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\obj\Debug\EntregaTurnoRM.dll
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\obj\Debug\EntregaTurnoRM.pdb
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\bin\Funciones.dll
+C:\Users\earancibia\Documents\Visual Studio 2012\Projects\EntregaTurnoRM\EntregaTurnoRM\bin\Funciones.pdb
